@@ -27,7 +27,7 @@ namespace MvcApplication2.Models
             [Required]
             object titulo { get; set; }
 
-            //obligatorio, tamaño de id 7 letras
+            //obligatorio, tamaño de id 7 letrllllllllllllllllllllllllllllllas
             [Required]
             [StringLength(7)]
             object direccion { get; set; }
